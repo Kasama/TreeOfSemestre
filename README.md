@@ -1,5 +1,7 @@
 #Linguagem
 Python 3.5
+#Objetivo
+Levantar dados sobre as dificuldades das turmas e encontrar matérias criticas, para tentar abrir turmas extras.
 #Procedimento
 Forke o programa, crie seu cadastro e dê merge com o original.
 #Pq um readme tão bosta?
