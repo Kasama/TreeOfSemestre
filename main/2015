@@ -1,0 +1,83 @@
+SCC0200-Informação Profissional em Ciências da Computação
+SCC0221-Introdução à Ciência de Computação I
+SCC0222-Laboratório de Introdução à Ciência de Computação I
+SMA0300-Geometria Analítica
+SMA0353-Cálculo I
+SSC0117-Introdução à Lógica Digital
+SSC0180-Eletrônica para Computação
+FCM0200-Física Básica I
+>SMA0353
+SCC0201-Introdução à Ciência de Computação II
+>SCC0221
+SCC0202-Algoritmos e Estruturas de Dados I
+~SCC0201
+SMA0354-Cálculo II
+>SMA0353
+SSC0118-Sistemas Digitais
+>SSC0117
+FFI0180-Laboratório de Física Geral I
+>FCM0200
+SCC0215-Organização de Arquivos
+>SCC0201
+>SCC0202
+SCC0216-Modelagem Computacional em Grafos
+>SCC0202
+SMA0355-Cálculo III
+>SMA0354
+SSC0103-Programação Orientada a Objetos
+>SCC0202
+SSC0112-Organização de Computadores Digitais I
+>SSC0118
+SSC0119-Prática em Organização de Computadores
+~SSC0112
+>SSC0118
+SCC0218-Algoritmos Avançados e Aplicações
+>SCC0216
+SMA0180-Matemática Discreta I
+SMA0356-Cálculo IV
+SME0123-Estatística
+>SCC0221
+>SMA0354
+SME0141-Álgebra Linear e Equações Diferenciais
+SSC0124-Análise e Projeto Orientados a Objetos
+>SSC0103
+SSC0140-Sistemas Operacionais I
+>SCC0202
+>SSC0112
+SCC0240-Bases de Dados
+>SCC0215
+SME0104-Cálculo Numérico
+>SMA0353
+>SME0141
+SME0121-Processos Estocásticos
+>SME0123
+SSC0130-Engenharia de Software
+>SSC0124
+SSC0141-Sistemas Operacionais II
+>SSC0140
+SSC0142-Redes de Computadores
+>SSC0140
+SCC0205-Teoria da Computação e Linguagens Formais
+>SCC0216
+>SMA0180
+SCC0230-Inteligência Artificial
+>SCC0201
+SCC0241-Laboratório de Bases de Dados
+>SCC0240
+SSC0114-Arquitetura de Computadores
+>SSC0112
+SSC0143-Programação Concorrente
+>SSC0140
+SSC0157-Tópicos Avançados em Comunicação
+>SSC0142
+SCC0217-Linguagens de Programação e Compiladores
+>SCC0205
+SCC0219-Introdução ao Desenvolvimento Web
+>SCC0202
+SCC0250-Computação Gráfica
+>SSC0103
+SSC0120-Sistemas de Informação
+>SSC0130
+SCC0207-Computadores e Sociedade I
+SME0110-Programação Matemática
+>SME0104
