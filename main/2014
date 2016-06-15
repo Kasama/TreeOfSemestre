@@ -57,11 +57,30 @@ SSC0141-Sistemas Operacionais II
 >SSC0140
 SSC0142-Redes de Computadores
 >SSC0140
-SCC0205-Teoria da Computação e Linguagens Formais
->SCC0216
->SMA0180
-SCC0230-Inteligência Artificial
->SCC0201
+SCC0205 	Teoria da Computação e Linguagens Formais
+4
+
+2
+
+120
+
+
+
+      SCC0216 - Modelagem Computacional em Grafos
+  Requisito
+      SMA0180 - Matemática Discreta I
+  Requisito
+SCC0230 	Inteligência Artificial
+4
+
+1
+
+90
+
+
+
+      SCC0201 - Introdução à Ciência de Computação II
+  Requisito
 SCC0241-Laboratório de Bases de Dados
 >SCC0240
 SSC0114-Arquitetura de Computadores
@@ -70,14 +89,3 @@ SSC0143-Programação Concorrente
 >SSC0140
 SSC0157-Tópicos Avançados em Comunicação
 >SSC0142
-SCC0217-Linguagens de Programação e Compiladores
->SCC0205
-SCC0219-Introdução ao Desenvolvimento Web
->SCC0202
-SCC0250-Computação Gráfica
->SSC0103
-SSC0120-Sistemas de Informação
->SSC0130
-SCC0207-Computadores e Sociedade I
-SME0110-Programação Matemática
->SME0104
